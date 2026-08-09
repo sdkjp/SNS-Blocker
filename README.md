@@ -5,8 +5,7 @@ X（旧Twitter）・Instagram・YouTube の「おすすめ」表示や
 無限スクロール、広告・おすすめアカウントなどを抑えて、
 フォロー中の投稿・登録チャンネルに集中しやすくする拡張です。
 
-同梱ファイル: focus-blocker.user.js
-
+ダウンロード：https://github.com/sdkjp/SNS-Blocker/archive/refs/heads/main.zip
 
 ■ 導入（5分・無料・Xcode不要）
 ------------------------------------------
