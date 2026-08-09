@@ -12,18 +12,18 @@ X（旧Twitter）・Instagram・YouTube の「おすすめ」表示や
 1) App Store で「Userscripts」(無料) をインストール
    https://apps.apple.com/app/userscripts/id1463298887
 
-2) Safari →設定(⌘,) →「拡張機能」タブ で
+2) Safariで X、Instagram、YouTubeを開く →設定(⌘,) →「拡張機能」タブ で
    「Userscripts」に✔チェックを入れて有効化
    （X / Instagram / YouTube へのアクセスを「許可」）
 
-3) Safari ツールバーの Userscripts アイコン(</>）をクリック →
+4) Safari ツールバーの Userscripts アイコン(</>）をクリック →
    歯車(設定) → 「Userscripts Directory」で保存フォルダを選ぶ
    （どこでもOK。例: 書類フォルダに「Userscripts」フォルダを作って選択）
 
-4) 同梱の「focus-blocker.user.js」を、その選んだフォルダに入れる
+5) 同梱の「focus-blocker.user.js」を、その選んだフォルダに入れる
    （ドラッグ＆ドロップでOK）
 
-5) X / Instagram / YouTube を開いて再読込(⌘R)。
+6) X / Instagram / YouTube を開いて再読込(⌘R)。
    Userscripts アイコンにスクリプトが表示され、ONになっていれば完了。
 
 
