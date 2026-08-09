@@ -18,7 +18,6 @@ X（旧Twitter）・Instagram・YouTube の「おすすめ」表示や
 
 4) Safari ツールバーの Userscripts アイコン(</>）をクリック →
    歯車(設定) → 「Userscripts Directory」で保存フォルダを選ぶ
-   （どこでもOK。例: 書類フォルダに「Userscripts」フォルダを作って選択）
 
 5) 同梱の「focus-blocker.user.js」を、その選んだフォルダに入れる
    （ドラッグ＆ドロップでOK）
